@@ -12,7 +12,9 @@ This is still a work in progress, so stay tuned for updates which will improve p
 To get started:
 
 1) Open LCHUDViewController
+
 2) Near the top, you will see a bunch of #defines asking for api keys.  Input your api keys, which you can create on Cryptsy, MultiPool, and Coinbase.
+
 3) Sign using your own developer identity, then build and run!
 
 - LiveCoins is a universal app, so it will run great on both iPhone and iPad. 
